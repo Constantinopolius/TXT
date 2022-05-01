@@ -47,7 +47,7 @@ vim или statrt preferences.txt (команда start запускает фа�
  vim skills.txt
 
 12. Сделать коммит в одну строку.
-git commit -am skills.txt preferences.txt "add two files"
+git commit -am "add two files"
 
 13. Отправить сразу 2 файла на внешний репозиторий.
  git push
